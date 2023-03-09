@@ -8,3 +8,5 @@ The Tomato-Clock is a countdown tool.
 * 1.2 Bug correction.
 * 2.0 Update: End sound.
 * 2.1 Bug correction.
+# Licence
+(Licence)[LICENSE]
